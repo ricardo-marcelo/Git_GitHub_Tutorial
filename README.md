@@ -1,5 +1,5 @@
 # Git_GitHub_Tutorial
-## Configuración Básica
+## Comando básicos
 
 Configurar Nombre que salen en los commits
 ```ssh
@@ -9,9 +9,6 @@ Configurar Email
 ```ssh	
 	git config --global user.email ricardomarcelo@hotmail.com
 ```
-
-## Iniciando repositorio
-
 Carpeta local de nuestro proyecto donde inicializamos un repositorio GIT
 ```ssh
 	git init
